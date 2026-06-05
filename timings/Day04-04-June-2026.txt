@@ -1,0 +1,7 @@
+# What I did today
+3 hours - Revised AWS concepts(EC2, IAM, VPC, S3, Session Manager, Route 53, CloudTrail, CloudWatch, Auto Scaling) and practiced.
+1 hour – Coding practice.
+
+# Tomorrow's Task
+3 hours - Revise AWS concepts.
+3 hour - Practicing Linux and Git commands
