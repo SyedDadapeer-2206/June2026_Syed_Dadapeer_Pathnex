@@ -1,0 +1,7 @@
+# What I did today
+3 hours - Revised AWS concepts(Lambda, AWS Shield, Amazon GuardDuty, Amazon Inspector, AWS KMS, RDS, SSM, Aurora, DynamoDB, Redshift, DMS, etc.) and practiced.
+1 hour – Coding practice.
+
+# Tomorrow's Task
+3 hours - Revise Docker concepts.
+3 hour - Practicing Docker commands
