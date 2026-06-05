@@ -3,5 +3,5 @@
 1 hour – Coding practice.
 
 # Tomorrow's Task
-3 hours - Revise Git concepts.
-2 hour - Practicing Linux and Git commands
+3 hours - Revise Linux concepts.
+2 hour - Practicing Linux commands
