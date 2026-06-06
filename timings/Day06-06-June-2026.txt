@@ -1,0 +1,7 @@
+# What I did today
+3 hours - Revise Docker concepts(Container, Image, Dockerfile, Docker Hub, Volume, Network, Registry, Docker Compose, Port Mapping, Layer, Daemon, CLI).
+1 hour – Coding practice.
+
+# Tomorrow's Task
+3 hours - Revise Kubernetes concepts.
+3 hour - Practicing Kubernetes commands.
