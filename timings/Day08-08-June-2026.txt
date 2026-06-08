@@ -1,0 +1,8 @@
+# What I did today
+4 hours - Revise Kubernetes(Ingress Controller, Liveness, Readiness & Startup probes, taints & tolerations, affinity, 
+          node affinity, anti-affinity, CNI, cluster upgrade, StatefulSet, DaemonSet)
+1 hour – Coding practice.
+
+# Tomorrow's Task
+3 hours - Revise Kubernetes concepts.
+2 hour - Practicing Kubernetes commands.
