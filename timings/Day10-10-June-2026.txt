@@ -1,0 +1,7 @@
+# What I did today
+4 hours - Revise & practice Helm, ArgoCD concepts & commands.
+1 hour – Coding practice.
+
+# Tomorrow's Task
+4 hours - Revise Terraform concepts.
+1 hour - Practicing Terraform commands.
