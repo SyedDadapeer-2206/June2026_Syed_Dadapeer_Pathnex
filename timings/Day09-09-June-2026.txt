@@ -1,0 +1,7 @@
+# What I did today
+4 hours - Revise & Practice Kubernetes.
+1 hour – Coding practice.
+
+# Tomorrow's Task
+3 hours - Revise Helm, ArgoCD concepts.
+2 hour - Practicing Helm, ArgoCD commands.
